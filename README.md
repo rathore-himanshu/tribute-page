@@ -1,2 +1,1 @@
-# tribute-page
-Tribute Page to Swami Vivekanand Ji
+# Tribute Page to Swami Vivekanand Ji
